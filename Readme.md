@@ -1,4 +1,4 @@
-## Math Additio
+## Math Addition
 
 sebuah program dengan nama math addition yang dibuat dengan bahasa pemrograman javascript. program ini berguna untuk melatih kemampuan matematika kalian dalam berhitung. di program inilah kalian diuji, apakah kalian pandai dalam berhitung.
 
