@@ -20,6 +20,6 @@ sebuah program dengan nama math addition yang dibuat dengan bahasa pemrograman j
 
 ![result](https://github.com/candradwicahyo/math-addition/blob/master/image.jpg)
 
-[tekab link ini untuk mencoba program ini](https://candradwicahyo.github.io/math-addition)
+[tekan link ini untuk mencoba program ini](https://candradwicahyo.github.io/math-addition)
 
 > dibuat oleh **candra dwi cahyo**
